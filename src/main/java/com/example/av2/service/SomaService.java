@@ -1,4 +1,4 @@
-package com.example.av2.Service;
+package com.example.av2.service;
 import com.example.av2.dto.ListaNumerosDTO;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Service;
